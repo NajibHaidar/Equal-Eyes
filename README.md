@@ -3,6 +3,10 @@
 #### Group of 5 students: Najib Haidar, Jonathan Birchman, Eric Eng, Adam Klein, Gavin Bullock.
 #### Najib Haidar wrote the source code you see here. Parts were done in paired programming with Jonathan Birchman and Eric Eng.
 
+## Demo Video
+# [View the Demo Video](https://drive.google.com/file/d/1N5RvK88AtiRNaVfF_4NZJ8ooWWDmi8Y3/view?usp=sharing)
+
+
 ## Overview
 Equal Eyes is an innovative solution designed to assist visually impaired individuals in becoming more acquainted with their surroundings through audio output. Utilizing an embedded camera for visual input, this project leverages state-of-the-art technologies in image processing, object detection, image classification, and text detection. By converting visual stimuli into descriptive audio feedback, Equal Eyes aims to enhance the spatial awareness and daily life navigation of individuals with visual impairments.
 
