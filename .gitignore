@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+
+# Ignore all text files
+*.txt
+
+# Ignore common image formats
+*.jpg
+*.png
+*.gif
+*.bmp
