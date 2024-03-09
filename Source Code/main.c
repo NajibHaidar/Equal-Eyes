@@ -174,8 +174,6 @@ int main(void)
 
 	  if (send_data_R)
 	  {
-//          uint8_t dataToSend = '1'; // Send '1' for button press
-//          HAL_UART_Transmit(&huart2, &dataToSend, 1, 10);
 		  // Define the string to send
 		  char dataToSend[] = "Button 1\n\r";
 		  // Calculate the length of the string to send
@@ -188,8 +186,6 @@ int main(void)
 
 	  if (send_data_M)
 	  {
-//          uint8_t dataToSend = '1'; // Send '1' for button press
-//          HAL_UART_Transmit(&huart2, &dataToSend, 1, 10);
 		  // Define the string to send
 		  char dataToSend[] = "Button 2\n\r";
 		  // Calculate the length of the string to send
@@ -202,8 +198,6 @@ int main(void)
 
 	  if (send_data_L)
 	  {
-//          uint8_t dataToSend = '1'; // Send '1' for button press
-//          HAL_UART_Transmit(&huart2, &dataToSend, 1, 10);
 		  // Define the string to send
 		  char dataToSend[] = "Button 3\n\r";
 		  // Calculate the length of the string to send
