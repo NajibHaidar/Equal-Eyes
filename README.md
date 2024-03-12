@@ -1,5 +1,5 @@
 # Equal Eyes
-#### Embedded Systems Capstone project. Run on Raspberry Pi 4B and STM32F. 
+#### Embedded Systems Capstone project. Run on Raspberry Pi 4B and STM32F as required. 
 #### Group of 5 students: Najib Haidar, Jonathan Birchman, Eric Eng, Adam Klein, Gavin Bullock.
 #### Najib Haidar wrote the source code you see here. Parts were done in paired programming with Jonathan Birchman and Eric Eng.
 
